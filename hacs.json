@@ -1,5 +1,12 @@
 {
   "name": "Gardena Smart Systems",
   "iot_class": "Cloud Polling",
-  "render_readme": true
+  "render_readme": true,
+  "content_in_root": true,
+  "domains": [
+    "binary_sensor",
+    "sensor",
+    "switch",
+    "vacuum"
+  ]
 }
