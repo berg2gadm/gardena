@@ -7,6 +7,6 @@
     "binary_sensor",
     "sensor",
     "switch",
-    "vaccum"
+    "vacuum"
   ]
 }
